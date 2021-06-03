@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A trumpet sounded: or, the great mystery of the two little horns unfolded Being as a candle set up in the dark lanthorn or Daniel. Consisting of two parts. The first of which was sent to the Lord Protector so called, July 29. 1654. though not published until now. The other, a further illustration, by way of answer to a late book of Mr. William Aspinwal's, who hath endeavoured the proving of the late king to be the little horn Dan. 7. which is indeed the man chiefly relating to the present government. Published by John More.</title>
+            <author>More, John, of Barnelms.</author>
+         </titleStmt>
+         <extent>Approx. 37KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B26999</idno><idno type="EEBO-CITATION">99834694</idno>
+  <idno type="VID">206758</idno>
+  <idno type="EEBO-PROQUEST">2248545372</idno>
+  
+            <idno type="STC">Wing M2683</idno>
+            <idno type="PROQUEST">99834694</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99834694e"/>
+            <note>(EEBO-TCP ; phase 2, no. B26999)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 206758)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1817:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A trumpet sounded: or, the great mystery of the two little horns unfolded Being as a candle set up in the dark lanthorn or Daniel. Consisting of two parts. The first of which was sent to the Lord Protector so called, July 29. 1654. though not published until now. The other, a further illustration, by way of answer to a late book of Mr. William Aspinwal's, who hath endeavoured the proving of the late king to be the little horn Dan. 7. which is indeed the man chiefly relating to the present government. Published by John More.</title>
+                  <author>More, John, of Barnelms.</author>
+               </titleStmt>
+               <extent>[2], 17, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeer 1654.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing CD.</note>
+                  <note>Part 2 is a reply to: Aspinwall, William.  Explication and application of the seventh chapter of Daniel.</note>
+                  <note>Reproduction of the original in the Congregational Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Aspinwall, William, fl. 1648-1662. --  Explication and application of the seventh chapter of Daniel --  Early works to 1800.</term>
+               <term type="uniform_title">Bible. --  O.T. --  Daniel VII --  Commentaries --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Alexis (Ali) Jakobson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Alexis (Ali) Jakobson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:206758:1"/>
+            <pb facs="tcp:206758:1"/>
+            <p>
+               <hi>A TRƲMPET sounded:</hi> OR, The Great MYSTERY OF THE Two Little Horns UNFOLDED.</p>
+            <p>BEING AS A Candle set up in the dark Lanthorn of <hi>DANIEL.</hi>
+            </p>
+            <p>Consisting of two Parts.</p>
+            <p>The First of which Was sent to the Lord Protector so called, <hi>July</hi> 29. 1654. though not published until now.</p>
+            <p>The Other, A further Illustration, by way of Answer to a late Book of Mr. <hi>William Aspinwal</hi>'s, who hath endeavoured the proving of the late King to be the Little horn <hi>Dan.</hi> 7. which is indeed the man chiefly relating to the present Government.</p>
+            <p>Published by <hi>John More.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>Ezek. 3.6.</hi>
+               </bibl> If the watchman see the sword come, and bloweth not the trumpet, and the people be not warned: if the sword come and take away any person from among them, he is taken away in his iniquity; but his blood will I require at the watchmans hand.</q>
+            <p>Printed in the yeer 1654.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:206758:2"/>
+            <pb n="1" facs="tcp:206758:2"/>
+            <div type="part">
+               <head>Dan. 8.9. Dan. 7.8. The Great MYSTERY OF THE Tvvo Little Horns UNFOLDED. OR, A Candle set up in the Dark Lanthorn of <hi>Dan.</hi> 12.4, 9. As it was presented in a Letter to the Lord Protector <hi>August</hi> 2. 1654. a Copie whereof is as followeth.</head>
+               <div type="letter">
+                  <p>
+                     <seg rend="decorInit">H</seg>Earken, O Great Man, (or you must be bowed down) to the voice of the Lord which he hath commanded me a Worm, me the least among the Saints, to declare unto thee, whereby (if by any means) thou mayst have thy poor distracted soul drawn forth earnestly to pray, if perhaps the Lord may spare thee, and have mercy upon <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hee, by chusing some other to act the bloody Tragedie of the <hi>Little Horn,</hi> Dan. <hi>8.7.</hi> for <hi>Thou art he:</hi> vid. inclosed.</p>
+                  <pb n="2" facs="tcp:206758:3"/>
+                  <p>O man whom I mourn for, whom tears prevent my writing to, and have done now this four times, for your sake, (even in the wri<g ref="char:EOLhyphen"/>ting thus much of this short Epistle) with the extremity of such a<g ref="char:EOLhyphen"/>gonies as I have never known till now.</p>
+                  <p>O thou Great One, consider, I beseech thee, what ends can be in me, but the discharge of my duty to the Eternal God, to the hazard of my life, for the preserving my soul in the fore-warning of you. <hi>Ezek. 33.9. &amp; 3.19, 21.</hi>
+                  </p>
+                  <p>Sir, my prayers, my agonies, my tears, have all been for your sake: O weigh my words, and be ye warned; then shall mine eyes behold a wonder. <hi>Amen.</hi>
+                  </p>
+                  <closer>
+                     <salute>Sir,</salute>
+                     <signed>I am
+<list>
+                           <item>A man of sorrows.</item>
+                           <item>Mourning for Sion.</item>
+                           <item>Waiting for King Jesus.</item>
+                           <item>Rising up early.</item>
+                           <item>Speaking late.</item>
+                        </list> Ready to quench the thirsty Little horn with the blood of my heart, if that would do it. <hi>John More.</hi>
+                     </signed>
+                  </closer>
+               </div>
+               <div type="enclosure">
+                  <head>The Great Mystery, <hi>&amp;c.</hi>
+                  </head>
+                  <p>WHerein, first, consider, that <hi>Dan.</hi> chap. 2, 5, 7, 8, &amp; 11. do all relate (some more, some less) to one main business: so that the comparing them the one with the other, as also with <hi>Rev.</hi> 13. will (with the assistance of God) unfold the Mystery, discover our times, &amp; lead us to the understanding the whole Prophecie of <hi>Daniel.</hi>
+                  </p>
+                  <pb n="3" facs="tcp:206758:3"/>
+                  <p>For, in chap. 2.31, 32, 33, 34, 35. <hi>Daniel</hi> is speaking to the King of <hi>Babylon,</hi> where he is relating unto him his dream, which he also begins to interpret, vers. 37, 38. &amp; to continue (with <hi>John</hi>) thorow <hi>Dan.</hi> 5.7, 8, 11. and <hi>Rev.</hi> 13. wherein they shew it signifieth the four great Kings or Monarchies of the world, &amp; the events of them; and likewise a different Government after them.</p>
+                  <p>Therein shewing, that the head of gold, <hi>Dan.</hi> 2.32. signifieth the Babylonish Monarchy; and <hi>Nebuchad<g ref="char:EOLhyphen"/>nezzar</hi> is he, vers. 37, 38. who as he is the first great King or Monarch, is also the first Beast, <hi>Dan.</hi> 7.4. for the four Beasts are the four Kings or Monarchs, <hi>Dan.</hi> 7.17. So that the first great King or Monarch, and the first Beast, and the head of Gold, and <hi>Nebuchad<g ref="char:EOLhyphen"/>nezzar,</hi> and the King of <hi>Babylon, Is all one.</hi>
+                  </p>
+                  <p n="2">2. Shewing that the arms of Silver, <hi>Dan.</hi> 2.32. as being that which was succeeding him, <hi>Dan.</hi> 2.39. is that of the <hi>Medes</hi> and <hi>Persians, Dan.</hi> 5.31. which al<g ref="char:EOLhyphen"/>so is the second Beast, <hi>Dan.</hi> 7.5. as being the second king, <hi>Dan.</hi> 7.17. And the same arms of Silver is also the first Beast, <hi>Dan.</hi> 8.3. as being the King or Monarch of the <hi>Medes</hi> and <hi>Persians, Dan.</hi> 8.20. So that the first Beast, <hi>Dan.</hi> 8. and the second Beast, <hi>Dan.</hi> 7. and the arms of Silver, <hi>Dan.</hi> 2. and the second King or Monarch, <hi>Dan.</hi> 7.17. and the King or Monarch of the <hi>Medes</hi> and <hi>Persians, Dan.</hi> 5. and <hi>Dan.</hi> 8. <hi>Are all one.</hi>
+                  </p>
+                  <p n="3">3. Shewing that the belly and thighs of Brass, <hi>Dan.</hi> 2.32. which as the third, <hi>Dan.</hi> 2.39. was the <hi>Gre<g ref="char:EOLhyphen"/>cian</hi> King or Monarch, as succeeding the <hi>Medes</hi> and <hi>Persians,</hi> Dan. 8.21, 22. and is the second Beast, or he-Goat with the notable horn, <hi>Dan.</hi> 8.5. and the four notable horns, <hi>Dan.</hi> 8.6. and the five kings, <hi>Dan.</hi> 8.
+<pb n="4" facs="tcp:206758:4"/> 21, 22. So that the Monarch succeeding the <hi>Medes</hi> and <hi>Persians,</hi> Dan. 8.21. and the belly and thighs of brass, <hi>Dan.</hi> 2.32. and the second Beast, or he-Goat with the notable horn, <hi>Dan.</hi> 8 5. and the four notable horns, <hi>Dan.</hi> 8.6. and the five Kings, <hi>Dan.</hi> 8.21, 22. and the third Monarchy, <hi>Dan.</hi> 2.39. and the <hi>Grecian</hi> Kings or Monarchs, <hi>Are all one.</hi>
+                  </p>
+                  <p n="4">4. Shewing that the legs of Iron, <hi>Dan.</hi> 2.33. as it is the fourth Kingdom or Monarchy, &amp; as it is strong as Iron, and breaketh in pieces, <hi>Dan.</hi> 2.40. (which is the fourth Beast, <hi>Dan.</hi> 7 7. since the four kings are four Beasts, Dan. 7.17) and as it is the iron, battering, breaking Beast, Dan. 7.23. and the little horn, Dan. 8.9. as succeeding the he-Goat, and the four horns of the Grecian Monarchy, Dan. 8.8, 21, 22, 23, 24. who was the taker away of the daily sacrifice, Dan. 8.11. and the raiser of Taxes, Dan. 11.20, 31. (as he was the taker away of the daily s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>crifice) is clear it is the Romane Monarchy, <hi>Luke</hi> 2.1, 2. So that the legs of Iron, Dan. 2.33. and the fourth Beast, Dan. 7.7. and the little horn, Dan. 8.9. and the Monarchy suc<g ref="char:EOLhyphen"/>ceeding the Grecian, Dan. 8.23. and the taker away of the daily sacrifice, Dan 8 11. and the raiser of taxes, Dan. 11.20. &amp; the Roman Monarchy, <hi>Is all one.</hi>
+                  </p>
+                  <p n="5">5. Shewing that the feet partly Iron and partly Clay, Dan. 2.33. is another kinde of different Go<g ref="char:EOLhyphen"/>vernment, (<hi>Dan.</hi> 2.41, 42, 43.) which was to follow the Iron-legg'd taker away of the daily sacrifice, or Romane Monarchy, (which w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s the little horn <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>f Dan. 8.9.) and is (as succeeding that) the little horn of Dan. 7.8. which is to be divers from the first, Dan. 7.24 which little horn of Dan. 7.8. not that of chap. 8, 9.) or feet of Iron and Clay, Dan. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.33. or other
+<pb n="5" facs="tcp:206758:4"/> kinde of Government, doth clearly appear to be the Governour and Government of <hi>England</hi> at this day; <hi>England</hi>'s now being the different Government, and different Governour, that hath since succeeded or fol<g ref="char:EOLhyphen"/>lowed that former little horn, Dan. 8.9. or fourth Beast, Dan. 7.7. or Romane Government or Monar<g ref="char:EOLhyphen"/>chy, <hi>which was all one.</hi> So that the feet partly Iron and partly clay, Dan. 2.33. and the different Govern<g ref="char:EOLhyphen"/>ment, Dan. 2.41, 42, 43. and the Government that followeth the Romane Monarchy, or little horn of <hi>Dan.</hi> chap. 8. and the now-Government of <hi>England,</hi> and the little horn of Dan. <hi>cap.</hi> 7. and the Lord Pro<g ref="char:EOLhyphen"/>tector so called, as supreme Head and Governour, (as in <hi>Government,</hi> Art. 1, 2.) <hi>Is all one.</hi>
+                  </p>
+                  <p>Now the distinction of this Beast, (for so <hi>John</hi> calls him, <hi>Rev.</hi> 13.11.) as diverse or different from the former, is worth the noting, inasmuch as he <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ries our, <hi>No Monarchy,</hi> and will by no means be called a King; nay, it were trea<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>on to pro<g ref="char:EOLhyphen"/>claim him so: All which whi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e, what is a King more then Supreme, or Chief Magistrate under God among men? 1 <hi>Pet.</hi> 2.13. <hi>Rom.</hi> 13.1, 2, 4. Now he'<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>l be called thus, (<hi>Government</hi> Art. 1, 2.) yea, and be proclaimed so, without inserting <hi>under God</hi> at all, (but I remember it was, <hi>Charles by the grace of God,</hi> in words, <hi>King of England, Scotland,</hi> &amp;c. wherein he did acknowledge his Supremacie to be und<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r God) as if his very name were onely to fulfil the Scriptures in this particular, <hi>Dan.</hi> 7.24. as also in m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ny other things which I shall not mention, they being w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>l<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> known almost to all men, even be<g ref="char:EOLhyphen"/>yond the territories of hi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> own Dominions.</p>
+                  <p>But further, (O most sad! as ther<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> must in many things be and is an unlikene<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s; so must there in many thi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>gs be a like<g ref="char:EOLhyphen"/>ness: for, he must exercise all the power of the first Beast, make war against the Saints, and pr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>vail against them; <hi>spe<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>k great words against the most High,</hi> and <hi>wear out the Saints of <gap reason="illegible" resp="#keyers" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>e most High,</hi> Dan. 7.21, 25. and many ot<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>er such particular.
+<pb n="6" facs="tcp:206758:5"/> But this must be but for <hi>a time, and times, and a half,</hi> (BLES<g ref="char:EOLhyphen"/>SED BE THE LORD:) for then <hi>the Ancient of days shall come, and judgement shall be given to the Saints of the most High; and the Saints shall possess the kingdom:</hi> for then <hi>shall they take a<g ref="char:EOLhyphen"/>way his dominion, to consume and to destroy it to the end. And the kingdom and dominion, and the greatness of the kingdom under the whole heaven, shall be given to the people of the Saints of the most High.</hi> Dan. 7.22, 24, 26, 27, &amp;c. <hi>Even so, AMEN.</hi>
+                  </p>
+                  <p>Now for a word (since before mentioned) to <hi>Rev.</hi> 13. where, in vers. 1. <hi>John</hi> seeth a Beast having seven heads and ten horns: which <hi>Rev.</hi> 13. is all the substance of <hi>Dan.</hi> 8. much illustrated or enlarged in some of the particulars; <hi>Daniel</hi> not there particularizing the ten horns, and little horn proceed<g ref="char:EOLhyphen"/>ing from them, as <hi>Dan.</hi> 7. onely wraps up all in that little horn which proceeded from the four horns, <hi>Dan.</hi> 8.8, 9. with, <hi>The vision of the evening and morning is true.</hi>
+                  </p>
+                  <p>Wherefore <hi>John</hi> takes up the same matter, and handles it more fully, <hi>Rev.</hi> 13. as <hi>Daniel</hi> had done, Chap. 7. discovering those other things to be wrapt up in it, though not particula<g ref="char:EOLhyphen"/>rized; and therefore taketh occasion to mention the ten horns (according to <hi>Dan.</hi> 7.7.) in <hi>Rev.</hi> 13.1. For the clear<g ref="char:EOLhyphen"/>ing of which, consider, as <hi>Daniel</hi> (the Babylonish Monarchy being ended, <hi>Dan.</hi> 5.31.) begins, Chap. 8. at the <hi>Medes</hi> and <hi>Persians:</hi> so doth <hi>John</hi> in his 13 Chap. for his seven heads, it answering directly thereunto: As for instance,</p>
+                  <p n="1">1. The Ram, <hi>Dan.</hi> 8.3. which was the <hi>Mede</hi> and <hi>Persian,</hi> vers. 28. was one head.</p>
+                  <p n="2">2. The great horn of the he-Goat, <hi>Dan.</hi> 8.5. which was the first of the <hi>Grecian,</hi> vers. 21. is the second.</p>
+                  <p n="3">3. The four notable horns, <hi>Dan.</hi> 8.8. being the other four heads of the <hi>Grecian</hi> Monarchy, <hi>Dan.</hi> 8.22. makes six.</p>
+                  <p n="4">4. The little horn which comes out of them, <hi>Dan.</hi> 8.9. which was to be a fierce king, <hi>Dan.</hi> 8.22. and a wonderful, battering, breaking, and destroying king, <hi>Dan.</hi> 8.24. which was the <hi>Romane</hi> Monarchy, <hi>Dan.</hi> 2.40. and 7.23. makes the seventh: which are the seven heads, <hi>Rev.</hi> 13.1.</p>
+                  <pb n="7" facs="tcp:206758:5"/>
+                  <p>Now as to the ten horns, this seventh head being the fourth Beast, or <hi>Romane</hi> Monarchy, as you see, the ten horns do pro<g ref="char:EOLhyphen"/>perly belong unto it, <hi>Dan.</hi> 7.7. though <hi>Dan.</hi> chap. 8. doth not particularize them, as in his 7, and <hi>John</hi> in his 13.</p>
+                  <p>Among or after which ten horns, there is another little horn, <hi>Dan.</hi> 7.8. or Beast, <hi>Rev.</hi> 13.11. or kinde of Govern<g ref="char:EOLhyphen"/>ment diverse from the former, <hi>Dan.</hi> 7.24.) to arise; though <hi>Dan.</hi> chap. 8. doth not particularize. Which little horn, as he is to <hi>make war against the Saints,</hi> Dan. 7.21. so he is also to <hi>exercise all the power of the first Beast</hi> (and that considered as <hi>John</hi> hath considered him, in the whole race of the whole Monarchies, from the <hi>Babylonish</hi>) against them, <hi>Rev.</hi> 13.1, 12.</p>
+                  <p>Now the Governour and Government of <hi>England,</hi> &amp;c. be<g ref="char:EOLhyphen"/>ing this little horn, (by having succeeded as aforesaid, and in many particulars being divers from the <hi>Romane,</hi> Dan. 7.7, 23, 24.) what can the faithful godly souls of <hi>England,</hi> or any other part (where this more stout Beast then his fellows must come, <hi>Dan.</hi> 7.20.) expect, but wounds and wo; but anguish, tribu<g ref="char:EOLhyphen"/>lation, and astonishment; but sighing, sobbing, weeping, wai<g ref="char:EOLhyphen"/>ling, crying, imprisoning, hanging, murthering? <hi>&amp;c.</hi> which being already begun amongst us, will the sooner be finished, since at the time appointed refreshing shall come: whi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h, O sad spirits, so much already daunted, and souls dejected, open but your faithful eyes, you shall discover neerer then you think for.</p>
+                  <closer>
+                     <signed>
+                        <hi>Test.</hi> JOHN MORE.</signed>
+                     <dateline>
+                        <hi>Barnelms,</hi>
+                        <date>
+                           <hi>July</hi> 29. 1654.</date>
+                     </dateline>
+                  </closer>
+               </div>
+               <div type="postscript">
+                  <head>POSTSCRIPT. <hi>A Hand-writing interpreted.</hi> Here is wisdom: let him that hath understanding count the num<g ref="char:EOLhyphen"/>ber of the Beast, for it is the number of a man; and his number is six hundred sixty and six. <hi>CLXVI. Rev. 13.18.</hi>
+                  </head>
+                  <p>IN which we may observe <hi>wisdom</hi> and <hi>understanding</hi> both mentioned.</p>
+                  <pb n="8" facs="tcp:206758:6"/>
+                  <p>The wisdom mentioned lying in the thing it self, and is no other but the wisdom of God spoken by man in the Spirit of God, <hi>Rev.</hi> 1.10. <hi>Rev.</hi> 4.2. 2 <hi>Pet.</hi> 1.21. <hi>Eph.</hi> 3.5. 1 <hi>Cor.</hi> 2.7. 2 <hi>Cor.</hi> 1.12, &amp;c.</p>
+                  <p>Secondly, the understanding there mentioned being no other but the gi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t of the Spirit of the same God, 1 <hi>Cor.</hi> 12.8. <hi>Joh.</hi> 14.16, 17, 26. 1 <hi>Cor.</hi> 2.11, 14. So that as unto <hi>John</hi> by this Spirit was given the word of wisdom, shall unto some other be given the knowledge or understanding of that wis<g ref="char:EOLhyphen"/>dom, by the same Spirit: for, saith <hi>Paul, To one is given by the Spirit <gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>he word of wisdom, and to another the word of know<g ref="char:EOLhyphen"/>ledge</hi> (or understanding) <hi>by the same Spirit,</hi> 1 Cor. 12.8. All which is done, <hi>comparing spiritual things with spiritual,</hi> 1 Cor. 2.13.</p>
+                  <p>The spiritual things therefore I shall so compare, in the un<g ref="char:EOLhyphen"/>folding of this Mystery, is the nature or title of a King, in his several appellations.</p>
+                  <p n="1">1. As he is called <hi>Rex,</hi> which in English is <hi>King,</hi> 1 Sam. 10.19.</p>
+                  <p n="2">2. As he is called a <hi>Captain</hi> over a people or nation, 1 <hi>Sam.</hi> 10.1.</p>
+                  <p n="3">3. As he is called the <hi>Head</hi> of them, 1 <hi>Sam.</hi> 15.17.</p>
+                  <p n="4">4. As he is called <hi>Chief Governour,</hi> 1 Chron. 29.22.</p>
+                  <p n="5">5. As he is called <hi>Supreme,</hi> 1 Pet. 2.13.</p>
+                  <p rend="indent">So that <hi>Rex, Chief, Captain, Supreme, Head</hi> and <hi>Governour</hi> over a Nation, <hi>Is all one.</hi>
+                  </p>
+                  <p>Wherefore the Lord Protector being made Supreme, (<hi>Gov.</hi> Art. 2.) he as properly beareth any of the Titles aforesaid.</p>
+                  <p>So that should we attribute the term of <hi>Rex</hi> as supreme, 1. <hi>Pet.</hi> 2.13. with the title of <hi>Oliver</hi> which he retaineth, and <hi>Lord Protector</hi> which was given him, (<hi>Gov.</hi> Art. 1.) it would (setting down all the se eral numeral letters of that his name) make the just number of the beast, DCLXVI.</p>
+                  <closer>
+                     <signed>John More.</signed>
+                  </closer>
+                  <postscript>
+                     <p>If it be objected, <hi>There are two L's, and but one mentioned;</hi> I answer:
+<list>
+                           <item>1. <hi>Th<gap reason="illegible" resp="#murp" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>y a<gap reason="illegible" resp="#murp" extent="2 letters">
+                                    <desc>••</desc>
+                                 </gap> no several, but the same lett<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>r.</hi>
+                           </item>
+                           <item>2. <hi>Th<gap reason="illegible" resp="#murp" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>y are never both set down, in the kinde of numbering.</hi>
+                           </item>
+                        </list>
+                     </p>
+                  </postscript>
+               </div>
+               <trailer>FINIS.</trailer>
+            </div>
+            <div type="part">
+               <pb n="9" facs="tcp:206758:6"/>
+               <head>The second sounding of the Little horn. <hi>OR, A further prosecution of the great Mystery OF THE Tvvo Little Horns: (By way of Answer to a late book of Mr.</hi> William Aspinwal<hi>'s, intituled,</hi> An explication &amp; application of the <hi>7</hi> ch. of <hi>Dan.) Proving, that</hi> Charles Stuart <hi>could not be the Little horn; and that the party intended by it, is</hi> OLIVER <hi>Lord Protector so called.</hi> If the watchman see the sword come, and blow not the trumpet, and the people be not warned; if the sword come, and take any person from among them, he is taken in his iniquity: but his blood will I require at the watchmans hand. <hi>Ezek. 33.6.</hi>
+               </head>
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>SInce my designe in this contradicting you is onely for conscience sake, to blow the trumpet to the world, and free my self from blood, in giving warning of that sad destruction which is coming, a the fore-runner of <hi>Sion</hi>'s de<g ref="char:EOLhyphen"/>liverance, <hi>Dan.</hi> 12.1. I shall not dare to jar, where we in truth may make a harmony: wherefore I shall according to my du<g ref="char:EOLhyphen"/>ty (1 <hi>Cor.</hi> 1.10.) first <hi>speak the same thing,</hi> wishing I could do
+<pb n="10" facs="tcp:206758:7"/> the like in all the rest. For certainly, I speak the truth in Christ, I lye not, my conscience also bearing me witness, that I have great hea<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iness, and continual sorrow in my heart, that there should be occasion for me to dissent from you. Where<g ref="char:EOLhyphen"/>fore I shall impart my thoughts with all the love and tender<g ref="char:EOLhyphen"/>ness, both toward you, or whomsoever may be concerned in them, that it is possible for my poor lamenting soul, in the approaching blackness of <hi>Sion</hi>'s calamity, to attain unto.</p>
+               <p>You may therefore take notice, that my intentions are not in the least kinde to reflect upon the proceedings of the State against the King, nor to occasion any to suspect the warranta<g ref="char:EOLhyphen"/>bleness of those their actions, as in p. 30. of your book; nor am I in the least related to the late King's interest, neither engage I in his Cause, p. 38.</p>
+               <p>I one<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y desire to awaken the sinner, and (as I judge in cha<g ref="char:EOLhyphen"/>rity you have done before me in that your book) to prosecute the now-contemned and despised Cause of cry'd-down <hi>Jesus</hi> (even to the death) which thing guides me (and I doubt not but will you) to a contrary judgement in reference to the lit<g ref="char:EOLhyphen"/>tle horn. For,</p>
+               <p n="1">1. Considering (as you say) that all those powers that bear the stamp of Prerogati<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e Royal (as at this day) must be utterly demolished, p. 6. I cannot but give warning, in the bitterness of my sou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, unto all those high spirits that so incon<g ref="char:EOLhyphen"/>siderately have assumed them.</p>
+               <p n="2">2. Considering as you say) it is Christs prerogative, and his onely, to be his peoples Law-giver, p. 7. I cannot hold my tongue, whilst men presume, in these days of light, to rob him of that honour, <hi>Jam.</hi> 4.12.</p>
+               <p n="3">3. Considering (as you say) that he will then no longer see the oppression of his people, but will come speedily to their relief, and give hi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> power to hi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Saints; so that they may in a lawful way, and upon lawful grounds, take up the exercise of that power against their opposing Prince, (not<g ref="char:EOLhyphen"/>withstanding the Legislati<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> power he reser<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eth to himself, p. 14.) Wo be to me, if I blow not the Trumpet, to give notice thereof to him that hath now gotten that powe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in his hand.</p>
+               <p n="4">
+                  <pb n="11" facs="tcp:206758:7"/>4. Considering (as you say) there is no other Rule of righteousness (or form of Government) but his Word and Will, he giving the Laws, and man executing of them his his Laws, which are absolute, and without all exception, and for Saints onely to admini<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>er, whi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h make Gods Word the m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>in all their counsels; which you ca<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l the fifth Monar<g ref="char:EOLhyphen"/>chy, p. 19. (so much despised and contemned at this day:) Considering, I say, all these things, I judge it our duties to teach and admonish one another, <hi>Heb.</hi> 3.13. <hi>Col.</hi> 3.16. (<hi>and so much the more, as we see the day approaching,</hi> Heb. 10.25.) and to lift up our voices like trumpets, to tell <hi>England</hi> of their sins, and their Law-givers of their transgressions.</p>
+               <p n="5">5. Considering your Arguments whereby you maintain the safeness of this Law of God, pag. 19, 20. and the which I would fain see what Lawyer in <hi>England, Scotland, Ireland,</hi> or elsewhere, is able to contradict. And considering whe<g ref="char:EOLhyphen"/>ther (as you say) the want thereof hath not been the ruine of all the States and Governments in the four Monarchies hi<g ref="char:EOLhyphen"/>therto: And whether it will not as surely be of this, I doubt not but we shall cease to strive, and rather finde out one an<g ref="char:EOLhyphen"/>other to joyn hand in hand in this glorious (though despised) Cause and interest of Jesus Christ: in which that we may be one, not in part, but in whole, let us in love weigh and con<g ref="char:EOLhyphen"/>sider, without haste or prejudice,</p>
+               <p n="1">1. Whether the business of <hi>Charles,</hi> which you say was the first deadly wound to Monarchy, Prerogative Royal, (or Le<g ref="char:EOLhyphen"/>gislativeship) was not to be healed.</p>
+               <p n="2">2. Whether after the wound, the Image of that Beast were not to be made.</p>
+               <p n="3">3. Whether at this day the wound be not healed, and the Image set up. Which if it be, let us not ask, <hi>What shall we cry?</hi> our work is before us.</p>
+               <p n="4">4. Whether the Little horn be not now upon his feet, and that the Lord Protector so called is not he. Which if he be also, to set our face against his face, <hi>Ezek.</hi> 3.8. and tell him so.</p>
+               <p>In the examining of which, I judge it requisite first to di<g ref="char:EOLhyphen"/>stinguish this Little horn from the ten, and to prove him ano<g ref="char:EOLhyphen"/>ther,
+<pb n="12" facs="tcp:206758:8"/> as well in number as form; contra. p. 3, 13, 15. of your book: which I shall prosecute with the ten following Ar<g ref="char:EOLhyphen"/>guments.</p>
+               <p n="1">1. In that <hi>Daniel</hi> saw ten horns upon the head of the Beast, before that little horn, <hi>Dan.</hi> 7.7. that is therefore an<g ref="char:EOLhyphen"/>other.</p>
+               <p n="2">2. Because <hi>Daniel</hi> saw not the springing up of the ten, which he did of that, <hi>Dan.</hi> 7.8. therefore another.</p>
+               <p n="3">3. Inasmuch as the holy Ghost calls it so, <hi>Dan.</hi> 7.8. there<g ref="char:EOLhyphen"/>fore, <hi>&amp;c.</hi>
+               </p>
+               <p n="4">4. It came up amongst them, <hi>viz.</hi> the ten: so that there were ten before this came up, <hi>Dan.</hi> 7.8. therefore, <hi>&amp;c.</hi>
+               </p>
+               <p n="5">5. The priority you seem to hint at, relating indeed (as you say) to <hi>Charles,</hi> or the three kingdoms which were to be pluck'd up (before him, <hi>Dan.</hi> 7.8.) <hi>viz.</hi> the Little horn; not to him, he arising after them, <hi>Dan.</hi> 7.24. If that by priority be understood (which, as you see, agrees with Scripture) their being pluckt up by the roots, before the Little horn become: the horn (or takes the Legislative power) of those kingdoms, it cannot be <hi>Charles,</hi> but another, and that in number as well as form.</p>
+               <p>
+                  <hi>Quer.</hi> But you may say, <hi>How was it among them, and yet after them? (and how was it a horn, before it had the Legislative power?) This is contradiction.</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> First, no more contradiction then the holy Ghost (which speaketh no contradiction) hath spoken, <hi>Dan.</hi> 7.8, 24.</p>
+               <p>Secondly, it is no contradiction, if you consider when he is called the Little horn, (since it was then, that it was among them:) for it did not always remain a little horn, though it was the same horn: therefore must he be considered two ways:</p>
+               <p>First, as a Little horn, <hi>viz.</hi> King<note n="*" place="margin">The etymologie of the anci<g ref="char:EOLhyphen"/>ent Saxon word <hi>Cu-ning,</hi> (now in English, <hi>King</hi>) is as much as to say. <hi>One especial<g ref="char:EOLhyphen"/>ly valiant.</hi> Vide Hist. <hi>Verst.</hi>
+                  </note>, Captain, Head, or chief Governour (which is all one, 1 <hi>Sam.</hi> 10.1, 19. and 15.17. 1 <hi>Chron.</hi> 29.22. (of an Army: in which estate he rises a<g ref="char:EOLhyphen"/>mong them, and subdues, and pulls up three by the roots.</p>
+               <pb n="13" facs="tcp:206758:8"/>
+               <p>Secondly, not as a little horn, but as equal with any of the rest, when he is made the horn (King, Captain, Supreme Head or Governour, which is all one) of the three Nations subdu<g ref="char:EOLhyphen"/>ed and pluck'd up: and this he is to be after the former; at which time he is not called a <hi>Little horn,</hi> but the phrase being <hi>ten,</hi> and <hi>another,</hi> Dan. 7.24. So that thus considered, it is no strange thing for him to arise among them, and also after them.</p>
+               <p>That for a Little horn to enlarge its commanding power, is to be greater, see the Little horn that waxt <hi>exceeding great, Dan.</hi> 8.9. which I have prov'd the Romane Monarchy, in my former Treatise of the two Little horns; which indeed had its birth somthing like this, 1 <hi>Mach.</hi> 1. and therefore with this (all being wrapt up in one, as that great mystery sheweth) is fitly termed <hi>The evening and the morning,</hi> Dan. 8.26.</p>
+               <p n="6">6. You say <hi>Charles</hi> (in whom the three Kings were pluck'd up) was the first that God brought to judgement by dismem<g ref="char:EOLhyphen"/>bring, or beheading, (or a wound by a sword) p. 56. which wound being again to be healed, as I shall after prove, and the wound of the Little horn is not, <hi>Dan.</hi> 7.26, 27. it is not <hi>Charles,</hi> but another in number as well as form.</p>
+               <p n="7">7. You say, At that time (<hi>viz.</hi> the time of judging the Lit<g ref="char:EOLhyphen"/>tle horn) the Legislative power shall be onely in the hand of Christ himself, p. 14. But it is not so now, unless the Lord Protector so called be he, and <hi>Whitehal</hi> his throne; which they are not, seeing the Legislative power is in his hand: <hi>Gov.</hi> Art. 1. therefore, <hi>&amp;c.</hi>
+               </p>
+               <p n="8">8. As you say, <hi>Charles</hi> had a designe against the Saints of God, and would have destroyed them, p. 28, 29. But the Lit<g ref="char:EOLhyphen"/>tle horn, in his having a designe against them, is not said one<g ref="char:EOLhyphen"/>ly to <hi>will</hi> their destruction, but to <hi>prevail against them,</hi> Dan. 7.21, 25. which, blessed be the Lord, <hi>Charles</hi> did not: there<g ref="char:EOLhyphen"/>fore, <hi>&amp;c.</hi>
+               </p>
+               <p n="9">9. Considering he that subdues the three Kings is the Lit<g ref="char:EOLhyphen"/>tle horn, and, as it is well observed, (<hi>Dan.</hi> 7.17, 23. holding forth as much) that <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> is to be indifferently understood for <hi>Kings</hi> or <hi>Kingdoms,</hi> the word as you say including both,
+<pb n="14" facs="tcp:206758:9"/> p. 15. we should, in taking <hi>Charles</hi> to be the subduer of the three kingdoms, make him to be the subduer of himself; which he was not, but another: therefore, <hi>&amp;c.</hi>
+               </p>
+               <p n="10">10. You say, (and expected had been done) The emblems, or (if you will) the figures and representations of the Kingly prerogative of the Little horn, shall from thence begin to be utterly destroyed. But if there be now a new Image of the same, as <hi>Rev.</hi> 13.14. you will I hope shake hands, and say with me, (like Christ our Captain) not fearing men, <hi>This day is the Scripture fulfilled in our ears,</hi> Luk. 4.21. Minding the Lord Protector so called, once again, as you have done in your Epistle Dedicat<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ry of your book, of (as you say) his own words, <hi>viz. These are the times of accomplishment of pro<g ref="char:EOLhyphen"/>phecies;</hi> and that the Little horn was not <hi>Charles,</hi> but another both in number and form.</p>
+               <p>Having thus distinguis<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>'d the Little horn, <hi>Dan.</hi> 7.8. let us fall upon my first-proposed four Considerations, and first exa<g ref="char:EOLhyphen"/>mine whether or no the business of <hi>Charles,</hi> which as you say was the first deadly wound to Monar<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hy, Prerogative Royal, or Legislativeship, was not to be healed: which I conceive it was, for these five following Reasons.</p>
+               <p n="1">1. Because another must follow it, <hi>Dan.</hi> 7.24. <hi>Rev.</hi> 13.11.</p>
+               <p n="2">2. Because he must, as the former, be an opposer of the Saints, <hi>Dan.</hi> 7.20.</p>
+               <p n="3">3. Because he must be stouter then his fellows, <hi>Dan.</hi> 7.20.</p>
+               <p n="4">4. Because he must exercise all the power of the former, <hi>Rev.</hi> 13.12.</p>
+               <p n="5">5. Because the Scripture doth in plain terms affirm it, <hi>Rev.</hi> 13.3, 12. therefore that deadly wound to Monarchy, Pre<g ref="char:EOLhyphen"/>rogative Royal, or Legislativeship, was to be healed.</p>
+               <p>Secondly, let us examine whether or no, after the wound, the Image of that Beast was not to be made: which I also conceive it was, for these three following Reasons.</p>
+               <p n="1">1. Because he that hath so formerly wounded that Mo<g ref="char:EOLhyphen"/>narchy, may be ashamed to set up the very same: neverthe<g ref="char:EOLhyphen"/>less, since he is to be as afore-mentioned, he must be like it, yet diverse from it, <hi>Dan.</hi> 7.24. which is <hi>the image of.</hi>
+               </p>
+               <p n="2">
+                  <pb n="15" facs="tcp:206758:9"/>2. Because as many as will not worship the Image, shall be killed, <hi>Rev.</hi> 13.15.</p>
+               <p n="3">3. Because <hi>John (Rev.</hi> 13.14.) doth positively affirm it.</p>
+               <p>Thirdly, let us examine if the wound be not healed: which I conceive it is, for these four following Reasons.</p>
+               <p n="1">1. Because that which our great boast stood in the remo<g ref="char:EOLhyphen"/>val of, p. 17, 18. <hi>viz.</hi> the taking away of all Sultanship, form or figure of Prerogative Royal, or Legislativeship, which you say is the Soveraign power, p. 14. and onely to be in the hand of Christ, is at this day assumed by men.</p>
+               <p n="2">2. Because it is also established and confirmed, and that upon one man.</p>
+               <p n="3">3. Because he hath both received it, and owned it. <hi>Vide Govern.</hi> and <hi>Oath</hi> thereunto annexed.</p>
+               <p n="4">4. Because it is est<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>emed mans treason, albeit Gods truth, to gainsay it; as the following Considerations will clearly prove it.</p>
+               <p>Fourthly, whether or no the Little horn be not at this day upon his feet: which I also conceive he is, for these eight fol<g ref="char:EOLhyphen"/>lowing Reasons.</p>
+               <p n="1">1. Because there is now a different Government; when you, and I, and a cloud of witnesses (among the rest, the Army and now-Lord Protector so called, in Declaration to <hi>Scotland,</hi> p. 38.) according to the sense and s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ope of Scripture do conclude, that <hi>Charles</hi> (in whom the three Kings or King<g ref="char:EOLhyphen"/>doms were plucked up) was of the ten horns.</p>
+               <p n="2">2. Because he that was next to follow, was to be he, <hi>Dan.</hi> 7.24.</p>
+               <p n="3">3. Because a Little horn, (<hi>viz.</hi> the Head, Chief Captain, or Governour of a company of men, not a whole Nation, much less three) did pluck them up.</p>
+               <p n="4">4. Because that Little horn doth now succeed in the Le<g ref="char:EOLhyphen"/>gislativeship or Power: which though men call Treason, I must, in the name of the Lord Jesus, who is <hi>King of kings, and Lord of lords,</hi> (my Ma<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>er) bear testimony against, (because 'tis sin) which shall be barely in the words of the text, <hi>Isai.</hi> 33.22. <hi>The LORD is my law-giver.</hi> And as there
+<pb n="16" facs="tcp:206758:10"/> is but one, (I own no other) <hi>James</hi> 4.12.</p>
+               <p n="5">5. Because he is more stout then the former, <hi>Dan.</hi> 7.20.</p>
+               <p n="6">6. Because he is an opposer of the Sains, (witness <hi>Feake, Rogers,</hi> &amp;c.) <hi>Dan.</hi> 7.20.</p>
+               <p n="7">7. Because but an Image of <hi>Charles</hi> is at this day set up: for e<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ery one to his face dares say he is no King; which I am sure he is more like, then any Image that ever I saw before him. <hi>Rev.</hi> 13.14.</p>
+               <p n="8">8. Because it is accounted treason to oppose this Image, <hi>Rev.</hi> 13.15.</p>
+               <p>For which Reasons,</p>
+               <p>I conceive you were mistaken, (and that you your self will see it) in judging <hi>Charles</hi> to be the Little horn, <hi>Dan.</hi> 7. and that <hi>Oliver</hi> Lord Protector, so called, is he in whom whatso<g ref="char:EOLhyphen"/>ever the Scripture makes mention of concerning the Little horn, shall be accomplished. In the mean time, let the fore<g ref="char:EOLhyphen"/>going Characters of him satisfie for the first eight months of his Legislativeship.</p>
+               <p>But <hi>wo, wo, wo;</hi> the worst followeth.</p>
+               <p>Wherefore hear the sound of the Trumpet, O ye people: <hi>As is the morning, so is the evening</hi> of <hi>Dan.</hi> 8.26. For <hi>the time is come,</hi> (again) <hi>that judgement must begin at the house of God:</hi> (by <hi>such a day of trouble, as never was since there was a nation, Dan.</hi> 12.1. wherein <hi>two parts must be cut off, and the third part go thorow the fire,</hi> Zech. 13.8, 9.) <hi>But if it first begin at us, what shall be the end of them that obey not</hi> the Commandments of God? <hi>and if the righteous scarcely be saved, where shall the un<g ref="char:EOLhyphen"/>godly and sinners appear?</hi> 1 Pet. 4.17, 18. For <hi>the day hastens after, that burns like an oven: and the wicked shall be burnt up; there shall not of them all be left one</hi> (sprig or) <hi>branch,</hi> Mal. 4.6. But then shall that <hi>third part,</hi> that hath endured the fire, in the zeal of God, trample down the wicked (and the great in<g ref="char:EOLhyphen"/>sulting Kings, Nobles, and Potentates of the earth) like ashes under their feet, <hi>binding them in iron chains, and fetters,</hi> Psal. 149.8. Wherefore, though the time be at hand, that <hi>the powers of the heavens shall be shaken, and mens hearts shall fail
+<pb n="17" facs="tcp:206758:10"/> them for fear, and for looking after those great things that are com<g ref="char:EOLhyphen"/>ing upon the earth,</hi> Luke 21.26. and that you must expect, O ye Saints of the most High, to go thorow this <hi>fiery tryal;</hi> yet <hi>fear not, neither be afraid,</hi> Isai. 44.8. Ezek. 3.8, 9. Joh. 14.17. For <hi>the fearful shall have their portion in the lake that burns with brimstone,</hi> Rev. 21.8. Therefore be ye valiant and couragi<g ref="char:EOLhyphen"/>ous; and <hi>though bonds and afflictions wait for you,</hi> yet <hi>let no such thing trouble you,</hi> Acts 20.23, 24. but whilst you <hi>suffer according to the will of God, commit the keeping of your souls to him in well-doing,</hi> 1 Pet. 4.19. setting your faces against their faces; bearing testimony to <hi>the truth as it is in Jesus; not lo<g ref="char:EOLhyphen"/>ving your lives unto the death:</hi> So shall you <hi>fight the good fight, keep the faith,</hi> and <hi>finish your course with joy,</hi> and <hi>receive a crown of life and glory, which God the righteous Judge shall give unto you.</hi> 2 Tim. 4.7. Acts 20.24.</p>
+               <p>But <hi>as many as worship the beast and his image, shall drink of the wine of the wrath of God, which is poured out without mix<g ref="char:EOLhyphen"/>ture into the cup of his indignation: and they shall be tormented with fire and brimstone, in the presence of the holy angels, and in the presence of the Lamb.</hi> Rev. 14.9, 10.</p>
+               <p>
+                  <hi>He that testifieth these things, saith, Surely I come quickly. E<g ref="char:EOLhyphen"/>ven so, come Lord Jesus,</hi> Rev. 22.20. for <hi>it is time,</hi> Psal. 119.126. <hi>Englands</hi> present Rulers having <hi>made void,</hi> and of none <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ffect, <hi>thy Law,</hi> thy Word, <hi>through their traditions,</hi> (Mark 7.11, 12, 13.) in <hi>Govern.</hi> Art. 3. where it is said, <hi>The Lord Protector</hi> (so called) <hi>shall have power to pardon all things but murther and treason;</hi> though thy Law, O God, appointeth death in other cases, as in <hi>Exod.</hi> 21.15, 16, 17, &amp;c.</p>
+               <closer>
+                  <signed>
+                     <hi>Test.</hi> JOHN MORE.</signed>
+                  <dateline>
+                     <date>
+                        <hi>Aug.</hi> 14. 1654.</date>
+                     <hi>Barnelms.</hi>
+                  </dateline>
+               </closer>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:206758:11"/>
+            <pb facs="tcp:206758:11"/>
+            <pb facs="tcp:206758:12"/>
+         </div>
+      </body>
+   </text>
+</TEI>
